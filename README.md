@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Speech Emotion Recognition
 
 This project explores multimodal emotion recognition using the IEMOCAP dataset, exploring the interplay between multimodal features, as well as different model architectures, to enhance accuracy and robustness. Employing the TIM-Net (Temporal-aware bi-directional Multi-scale Network) as the baseline model, additional exploration entails diverse model architectures to discern their effectiveness across various modalities. Subsequently, a novel multimodal model is devised, streamlining individual modality processing through optimised pathways prior to implementing cross-modal attention mechanisms. The multimodal model demonstrates promising performance on the IEMOCAP dataset, achieving an F1 score of 0.729 and accuracy of 0.730, underscoring its potential in multimodal emotion recognition tasks.
@@ -87,3 +88,6 @@ The workbooks consist of the following:
 2. **Archive**: Previous notebooks and experimentations (for assignment, interim report etc.)
 3. **data_utils**: Data utilities such as data load, one-hot encoding, and data preparation.
 4. **model_utils**: Model utilities such as Transformer Blocks and Cross-Modal Attention layers.
+=======
+# multimodal-speech-emotion-recognition
+>>>>>>> 361c7db4e214ea80af785af679f31ea805d22502
